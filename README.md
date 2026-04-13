@@ -1,18 +1,32 @@
-## Getting Started
+# 🧮 Advanced Calculator (Java Swing)
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## 📌 Overview
+This is a GUI-based calculator built using Java Swing. It supports both basic and advanced operations with a clean and modern user interface.
 
-## Folder Structure
+## 🚀 Features
+- Basic operations (+, -, ×, ÷)
+- Square root (√) and power (x², xʸ)
+- Memory functions (M+, M-, MR)
+- Calculation history panel
+- Dark/Light mode toggle
+- Responsive UI with hover effects
 
-The workspace contains two folders by default, where:
+## 🛠️ Tech Stack
+- Java
+- Swing (GUI)
+- AWT
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## 🤖 AI Assistance
+AI tools were used to assist in debugging issues, improving UI/UX design, and enhancing functionality.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## 📷 Screenshots
+(Add your project screenshots here)
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## 📦 How to Run
+1. Clone the repository
+2. Open in any Java IDE (VS Code / IntelliJ / Eclipse)
+3. Run `Calculator.java`
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## 👩‍💻 Author
+Jyoti  
+GitHub: https://github.com/jyoti-jindal685
