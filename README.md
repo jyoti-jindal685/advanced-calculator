@@ -16,11 +16,6 @@ This is a GUI-based calculator built using Java Swing. It supports both basic an
 - Swing (GUI)
 - AWT
 
-## 🤖 AI Assistance
-AI tools were used to assist in debugging issues, improving UI/UX design, and enhancing functionality.
-
-## 📷 Screenshots
-(Add your project screenshots here)
 
 ## 📦 How to Run
 1. Clone the repository
